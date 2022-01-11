@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{559:function(t,e,s){"use strict";s.r(e);var n=s(13),r=Object(n.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("p",[this._v("这是VuePress自带的例子，留个纪念吧！")])])}),[],!1,null,null,null);e.default=r.exports}}]);
